@@ -11,9 +11,3 @@ BlackSploit Is A "Custom" Cheat Engine. It Uses, Lua Injector, So Injector Into 
 
 ## Installation
 soon
-
-```bash
-# How To Install, Using 'git clone'
-git clone https://github.com/th1quar/BlackSploit.git
-cd BlackSploit
-npm install
