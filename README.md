@@ -2,14 +2,6 @@
 
 A Byfron/Hyperion Bypass, Using A Custom CE
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 BlackSploit Is A "Custom" Cheat Engine. It Uses, Lua Injector, So Injector Into Roblox UWP Or Web.
 
