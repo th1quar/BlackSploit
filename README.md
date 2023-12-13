@@ -2,6 +2,8 @@
 
 A Byfron/Hyperion Bypass, Using A Custom Cheat Engine/PY Script
 
+PYTHON SCRIPT DOESN'T WORK FIXING SOON!
+
 ## Overview
 BlackSploit Is A "Custom" Cheat Engine. It Uses, Lua Injector, So Injector Into Roblox UWP Or Web. Python Script Now Available 🤑
 
